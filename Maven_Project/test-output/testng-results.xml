@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21063" started-at="2017-05-02T13:23:07Z" finished-at="2017-05-02T13:23:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21063" started-at="2017-05-02T13:23:07Z" finished-at="2017-05-02T13:23:28Z">
+      <class name="testcases.Negitive_testing_Assignment">
+        <test-method status="PASS" signature="f()[pri:0, instance:testcases.Negitive_testing_Assignment@3e6fa38a]" name="f" duration-ms="20972" started-at="2017-05-02T09:23:07Z" finished-at="2017-05-02T09:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:testcases.Negitive_testing_Assignment@3e6fa38a]" name="afterTest" is-config="true" duration-ms="1" started-at="2017-05-02T09:23:28Z" finished-at="2017-05-02T09:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testcases.Negitive_testing_Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
